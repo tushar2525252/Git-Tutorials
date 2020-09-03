@@ -1,2 +1,2 @@
-utility functions for version one.
+utility functions for version two.
 
