@@ -1,2 +1,2 @@
-utility functions for version video 6.
+utility version for functions. And please make your more repositories with django projects.
 
